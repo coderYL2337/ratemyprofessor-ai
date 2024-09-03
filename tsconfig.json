@@ -34,7 +34,7 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "app/page.txs"
-  ],
+, "app/profspector/page.js"  ],
   "exclude": [
     "node_modules"
   ]
