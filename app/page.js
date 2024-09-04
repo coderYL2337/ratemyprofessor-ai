@@ -2,6 +2,7 @@
 
 import { Box, Button, Container, Stack, Typography } from '@mui/material'
 import React from 'react'
+import HomeRounded from '@mui/icons-material/HomeRounded';
 
 export default function LandingPg() {
     return (
